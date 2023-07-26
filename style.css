@@ -1,0 +1,116 @@
+.Background-container{
+  
+    background-color: #9DC3C4;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    flex-direction: column;
+    color: #18767A;  
+}
+p{
+    font-family: 'Times New Roman';
+      
+}
+.heading{
+    color: #18767A;;
+}
+h1{
+    text-transform: uppercase;
+    font-family: 'Cormorant Garamond', serif;
+        font-family: 'EB Garamond', serif;
+        font-family: 'Fira Sans', sans-serif;
+        font-family: 'Freehand', cursive;
+        font-family: 'Knewave', cursive;
+        font-family: 'Lobster', cursive;
+        font-family: 'Lugrasimo', cursive;
+        font-family: 'Nanum Myeongjo', serif;
+        font-family: 'Playball', cursive;
+        font-family: 'Playfair Display', serif;
+        font-family: 'Ranga', cursive;
+        font-family: 'Roboto Slab', serif;
+        font-family: 'Rubik', sans-serif;
+        font-family: 'Seaweed Script', cursive;
+   
+}
+h3{   
+        font-family: 'Cormorant Garamond', serif;
+        font-family: 'EB Garamond', serif;
+        font-family: 'Fira Sans', sans-serif;
+        font-family: 'Nanum Myeongjo', serif;
+        font-family: 'Playfair Display', serif;
+        font-family: 'Roboto Slab', serif;
+        font-family: 'Rubik', sans-serif; 
+              
+}
+.pic-container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    margin-bottom: 3%;
+}
+.Personal-picture{
+    
+    height: 100px;
+    width: 100px;
+    border-radius: 80%;
+    
+    
+}
+
+.img{
+    height: 120px;
+    width: 150px;
+    border-radius: 100%;
+}
+
+.Skills-container{
+    margin-top: 200px;
+
+}
+.skill{
+    display: flex; 
+}
+.skill-descrip{
+    margin-top: 6%;
+    margin-left: 6%;
+}
+.skill1{
+    margin-bottom: 50px;
+    
+}
+.skill2{
+    margin-bottom: 50px;
+    
+}
+
+.footer{
+
+    background-color: #A4D9DB;
+
+}
+.footer-websites{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+.Contact-container{
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+.List-Skills{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+
+}
+
